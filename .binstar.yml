@@ -1,0 +1,4 @@
+package: iso8601
+script:
+  - conda build .
+build_targets: conda
